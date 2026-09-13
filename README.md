@@ -1,7 +1,7 @@
 # Crescent Hill Map
 Automatically creates a map from gps photo data for location of head stones.
 AI attempts to read the name on the headstone and the birth and death date.
-Each head stone can be edited or deleted:
+Each head stone can be edited or deleted. Labels are auto placed but can be moved.
 
 ![Screenshot Example](Screenshot%202026-09-12%20213606.png)
 
